@@ -1,0 +1,76 @@
+[
+  [
+    {
+      "name": "Deepak kumar",
+      "email": "deepakselvam26@gmail.com",
+      "phone": "96292-22332",
+      "degree": "B.SC",
+      "location": {
+        "address": "No.7, Perumal Reddy street",
+        "postalCode": "600052",
+        "city": "Chennai",
+        "state": "Tamil-nadu"
+      },
+      "profiles": {
+        "network": "Github",
+        "username": "deepak-sdk",
+        "url": "https://github.com/deepak-sdk"
+      }
+    }
+  ],
+
+  [
+    {
+      "company": "Brainvalley Solution",
+      "position": "UI DEVELOPER",
+      "startDate": "2020-10-12 ",
+      "summary": "TRAINING TO BE AN FULLSTACK DEVELOPER"
+    }
+  ],
+
+  [
+    {
+      "organization": "BlueeEagle",
+      "position": "Trainee",
+      "website": "",
+      "startDate": "2021-05-10",
+      "endDate": "",
+      "summary": "Junior Web Developer"
+    }
+  ],
+  [
+    {
+      "institution": "Gurunanak College",
+      "area": "Visual Communication",
+      "studyType": "Offline",
+      "startDate": "2015-04-01",
+      "endDate": "2018-05-01",
+      "gpa": "7.2",
+      "courses": [
+        {
+          "nameOfTheInstitution": "Guvi",
+          "Course": "Full-stack Development"
+        }
+      ]
+    }
+  ],
+
+  [
+    {
+      "name": "Skills",
+      "level": "Beginner",
+      "keywords": "Javascript, React, SASS, JQUERY, Node-js, Express-js, MongoDB, AWS, Flutter, Dart"
+    }
+  ],
+  [
+    {
+      "language": "Tamil,English,Hindi",
+      "fluency": "Tamil"
+    }
+  ],
+  [
+    {
+      "Hobby": "Playing Cricket, Reading Programming Books"
+    }
+  ]
+]
